@@ -96,6 +96,7 @@ nav .logo {
 .about-section .detailbox {
     width: 100%;
     max-width: 400px;
+    color: #fff;
 }
 
 .about-section .detailbox ol {
