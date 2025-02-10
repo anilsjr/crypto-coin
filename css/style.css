@@ -98,6 +98,9 @@ nav .logo {
     max-width: 400px;
     color: #fff;
 }
+.about-section .detailbox h1{
+    color:#fff;
+}
 
 .about-section .detailbox ol {
     margin: 5px 0 20px 30px;
